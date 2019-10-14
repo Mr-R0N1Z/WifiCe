@@ -10,13 +10,7 @@ ku='\033[33;1m' #kuning
 # Jangan Recode Ya gayn
 # yang Recode Besok  Mati Amin
 echo $i
-echo ":::::::..       ...         ...   ::::::::::::
-;;;;``;;;;   .;;;;;;;.   .;;;;;;;.;;;;;;;;''''
- [[[,/[[['  ,[[     \[[,,[[     \[[,   [[     
- $$$$$$c    $$$,     $$$$$$,     $$$   $$     
- 888b "88bo,"888,_ _,88P"888,_ _,88P   88,    
- MMMM   "W"   "YMMMMMP"   "YMMMMMP"    MMM    
-"
+figlet ROOT
 echo $ku
 echo "[1] NEED ACC?"
 echo "[2] START ROOT"
